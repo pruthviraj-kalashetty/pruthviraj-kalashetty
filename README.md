@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Pruthviraj 👋
 
-<!--
-**pruthviraj-kalashetty/pruthviraj-kalashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+🎓 B.E. Electronics & Communication Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- VLSI Design
+- Digital Design
+- RTL Design
+- Verilog HDL
+
+🌱 Currently Learning
+- Digital Design Fundamentals
+- Verilog HDL
+- RTL Design
+- FPGA Basics
+
+## Tech Stack
+- Verilog HDL
+- C
+- Python
+- Git & GitHub
+
+## Current Projects
+- Digital Design Fundamentals
+- Verilog Practice
+- RTL Design Projects
+
+## Goals
+- Become an RTL Design Engineer
+- Build industry-level VLSI projects
+- Pursue Master's in Germany
+
+## Connect with me
+- LinkedIn: Your LinkedIn link
+- Email: your@email.com
