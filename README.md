@@ -31,7 +31,7 @@ My GitHub profile is strictly organized into six specialized repositories tracki
 ### 🏛️ Architecture & Theory
 * **[VLSI-Learning-Journey](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI
 )**: Foundations of Digital Design, Timing Constraints ($T_{setup}$/$T_{hold}$), and Clock Domain Crossing theory.
-* **[Computer-Architecture](https://github.com/pruthvirajkalashetty/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
+* **[Computer-Architecture](https://github.com/pruthviraj-kalashetty/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
 
 ### 💻 RTL Implementation & Controllers
 * **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
