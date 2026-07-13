@@ -46,3 +46,8 @@ My GitHub profile is strictly organized into six specialized repositories tracki
 ### 🚀 System Integration & Silicon
 * **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
 * **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
+
+## Connect with me
+- LinkedIn: Your LinkedIn link
+- Email: your@email.com
+
