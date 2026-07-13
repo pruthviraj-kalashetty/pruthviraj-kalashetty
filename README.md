@@ -4,11 +4,7 @@
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
   
-- **💡 Passionate about** 
-   - VLSI Design
-   - Digital Design
-   - RTL Design
-   - Verilog HDL
+- **💡 Passionate about:-** VLSI Design,Digital Design,RTL Design,Verilog HDL.
 
 - **🌱 Currently Learning**
     - Digital Design Fundamentals
