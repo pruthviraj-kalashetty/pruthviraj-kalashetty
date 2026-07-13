@@ -29,14 +29,20 @@
 My GitHub profile is strictly organized into six specialized repositories tracking my progression as an RTL Engineer:
 
 ### 🏛️ Architecture & Theory
-* **[VLSI-Learning-Journey](https://github.com/DhruvBalsara/Digital-Systems-and-VLSI
+* **[VLSI-Learning-Journey](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI
 )**: Foundations of Digital Design, Timing Constraints ($T_{setup}$/$T_{hold}$), and Clock Domain Crossing theory.
-* **[Computer-Architecture](https://github.com/DhruvBalsara/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
+* **[Computer-Architecture](https://github.com/pruthvirajkalashetty/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
 
 ### 💻 RTL Implementation & Controllers
-* **[Verilog-Practice](https://github.com/DhruvBalsara/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
-* **[RTL-Design-IPs](https://github.com/DhruvBalsara/RTL-Design-IPs)**: Custom-built communication IP controllers (UART with 16x oversampling, SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
+* **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
+* **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**: Custom-built communication IP controllers (UART with 16x oversampling, SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
+
+📚 Currently Learning
+- Digital Design Fundamentals
+- Verilog HDL
+- RTL Design
+- FPGA Basics
 
 ### 🚀 System Integration & Silicon
-* **[System-Level-Digital-Projects](https://github.com/DhruvBalsara/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
-* **[FPGA-Projects](https://github.com/DhruvBalsara/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
+* **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
+* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
