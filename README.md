@@ -12,15 +12,15 @@
 
 ## 🛠️ Tech Stack
 
-### Languages 
-   - Verilog HDL.
-     
-### Tools & Platformm 
+Languages 
+  - Verilog HDL.
+
+Tools & Platformm 
    - AMD Vivado.
    - ModelSim.
    - GTKWave.
-     
-### Hardware Knowledge 
+
+ Hardware Knowledge 
    - FPGA Deployment.
    - FSM Optimization.
    - Clock Domain Crossing (CDC).
