@@ -1,4 +1,9 @@
-## 🚀 About Me
+# Pruthviraj kalashetty
+
+## Electronics & Communication Engineering Student
+
+🎓 B.E. Electronics & Communication Engineering
+
 - 🎓 Pursuing B.Tech in Electronics & Telecommunication Engineering at DJSCE, Mumbai.
 - 🎯 Focused heavily on **RTL Design, Digital Microarchitectures, and FPGA Deployment**.
 - 🛠️ Actively building a structured, ground-up portfolio covering digital design theory to full hardware implementation.
