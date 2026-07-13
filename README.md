@@ -1,37 +1,9 @@
-# Hi, I'm Pruthviraj 👋
+## 🚀 About Me
+- 🎓 Pursuing B.Tech in Electronics & Telecommunication Engineering at DJSCE, Mumbai.
+- 🎯 Focused heavily on **RTL Design, Digital Microarchitectures, and FPGA Deployment**.
+- 🛠️ Actively building a structured, ground-up portfolio covering digital design theory to full hardware implementation.
 
-## Electronics & Communication Engineering Student
-
-🎓 B.E. Electronics & Communication Engineering
-
-💻 Interested in:
-- VLSI Design
-- Digital Design
-- RTL Design
-- Verilog HDL
-
-🌱 Currently Learning
-- Digital Design Fundamentals
-- Verilog HDL
-- RTL Design
-- FPGA Basics
-
-## Tech Stack
-- Verilog HDL
-- C
-- Python
-- Git & GitHub
-
-## Current Projects
-- Digital Design Fundamentals
-- Verilog Practice
-- RTL Design Projects
-
-## Goals
-- Become an RTL Design Engineer
-- Build industry-level VLSI projects
-- Pursue Master's in Germany
-
-## Connect with me
-- LinkedIn: Your LinkedIn link
-- Email: your@email.com
+## 🛠️ Tech Stack
+- **Languages:** Verilog HDL, C, Python
+- **Tools & Platforms:** AMD Vivado, ModelSim, GTKWave, KiCad
+- **Hardware Knowledge:** FPGA Deployment, Processor Datapaths, FSM Optimization, Clock Domain Crossing (CDC)
