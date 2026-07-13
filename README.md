@@ -2,15 +2,15 @@
 
 ## Electronics & Communication Engineering Student
 
-- 🎓 Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.
+- 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
   
-- 💡 Passionate about 
+- **💡 Passionate about** 
    - VLSI Design
    - Digital Design
    - RTL Design
    - Verilog HDL
 
-- 🌱 Currently Learning
+- **🌱 Currently Learning**
     - Digital Design Fundamentals
     - Verilog HDL
     - RTL Design
