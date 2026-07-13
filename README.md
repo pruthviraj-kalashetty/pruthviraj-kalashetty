@@ -37,17 +37,18 @@ My GitHub profile is strictly organized into six specialized repositories tracki
 * **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
 * **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**: Custom-built communication IP controllers (UART with 16x oversampling, SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
 
-📚 Currently Learning
+### 🚀 System Integration & Silicon
+* **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
+* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
+
+## 📚 Currently Learning
 - Digital Design Fundamentals
 - Verilog HDL
 - RTL Design
 - FPGA Basics
 
-### 🚀 System Integration & Silicon
-* **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
-* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
-
-## Connect with me
-- LinkedIn: Your LinkedIn link
-- Email: your@email.com
+  
+## 📫 Connect with me
+- 💼 LinkedIn: Your LinkedIn link
+- 📧 Email: your@email.com
 
