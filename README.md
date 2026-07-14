@@ -14,11 +14,6 @@
 </div>
 
 ---
-<p align="center">
-  <img src="assets/logos/amd-vivado.png" height="55" alt="AMD Vivado"/>
-  <img src="assets/logos/modelsim.png" height="55" alt="ModelSim"/>
-  <img src="assets/logos/gtkwave.png" height="55" alt="GTKWave"/>
-</p>
 
 ## Electronics & Communication Engineering Student
 
