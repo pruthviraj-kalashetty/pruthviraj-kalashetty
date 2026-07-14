@@ -1,4 +1,6 @@
-# Pruthviraj kalashetty
+<p align="center">
+  <img src="Image.png" alt="Repository Banner" width="900" height="300">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pruthviraj-kalashetty&show_icons=true&theme=github_dark" />
@@ -7,6 +9,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviraj-kalashetty&theme=github-dark" />
 </p>
+
+# Pruthviraj kalashetty
 
 ## Electronics & Communication Engineering Student
 
