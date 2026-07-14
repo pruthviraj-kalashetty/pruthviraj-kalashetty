@@ -1,4 +1,6 @@
-# Pruthviraj kalashetty
+# Pruthviraj kalashetty <p align="center">
+  <img src="Image.png" alt="Repository Banner" width="50" height="50">
+</p>
 
 ## Electronics & Communication Engineering Student
 
