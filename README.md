@@ -1,5 +1,9 @@
 # Pruthviraj kalashetty
 
+<p align="center">
+  <img src="1Image.png" width="100%" alt="RTL Design Banner">
+</p>
+
 ## Electronics & Communication Engineering Student
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
