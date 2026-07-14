@@ -1,5 +1,5 @@
 # Pruthviraj kalashetty <p align="center">
-  <img src="Image.png" alt="Repository Banner" width="400" height="700">
+  <img src="Image.png" alt="Repository Banner" width="400" height="1000">
 </p>
 
 ## Electronics & Communication Engineering Student
