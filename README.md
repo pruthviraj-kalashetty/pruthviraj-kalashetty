@@ -2,19 +2,14 @@
 
 ### RTL Design • Digital Design • VLSI Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/VLSI-Engineering-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RTL-Design-00C8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital-Design-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Learning-orange?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-VLSI%20Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-RTL%20Design-00C8FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Digital%20Design-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-Active-orange?style=for-the-badge"/>
 </p>
 
-*A structured learning portfolio focused on RTL Design, Digital Design, FPGA Development, and VLSI Engineering.*
-
-</div>
-
----
-
+*A structured engineering portfolio documenting my journey from **Digital Design Fundamentals** to **Verilog RTL Design**, **Computer Architecture**, **Reusable RTL IP Development**, **System-Level Digital Design**, and **FPGA Implementation**, with a focus on building industry-ready skills in **RTL Design** and **VLSI Engineering**.*
 ## Electronics & Communication Engineering Student
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
