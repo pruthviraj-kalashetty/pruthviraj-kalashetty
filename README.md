@@ -1,11 +1,11 @@
 # Pruthviraj kalashetty
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthviraj-kalashetty&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviraj-kalashetty&theme=github-dark" />
 </p>
 
 ## Electronics & Communication Engineering Student
