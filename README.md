@@ -14,6 +14,10 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://cdn.simpleicons.org/amd" height="55" alt="AMD"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Xilinx_logo.svg" height="55" alt="Xilinx"/>
+</p>
 
 ## Electronics & Communication Engineering Student
 
