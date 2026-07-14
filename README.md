@@ -41,6 +41,51 @@ My GitHub profile is strictly organized into six specialized repositories tracki
 * **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
 * **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
 
+# Advanced Register-Transfer Level (RTL) & Digital Systems Portfolio
+
+Welcome to my comprehensive RTL development and hardware engineering profile. This repository contains structured modules that reflect a professional progression from fundamental digital VLSI concepts to complex, system-level FPGA implementations.
+
+---
+
+## 🛠️ Portfolio Map
+
+### 📁 1. Digital Systems and VLSI
+*Focus: Gate-level design, CMOS fundamentals, and hardware timing logic.*
+* State optimization strategies for complex control units.
+* Critical path evaluation and Static Timing Analysis (STA) constraint setups.
+
+### 📁 2. Verilog Practice
+*Focus: Clean, synthesizable RTL coding styles following industry design guidelines.*
+* Structural, dataflow, and behavioral modeling benchmarks.
+* Glitch-free Finite State Machine (FSM) sequence detectors.
+
+### 📁 3. Computer Architecture
+*Focus: Processing unit subsystems, pipeline design, and memory hierarchy operations.*
+* Execution units, hazard resolution logic, and multi-stage execution models.
+* Cache management controllers and custom Arithmetic Logic Units (ALUs).
+
+### 📁 4. RTL Design IPs
+*Focus: Reusable, highly parameterized silicon Intellectual Property (IP) blocks.*
+* High-throughput data buffers (Synchronous/Asynchronous FIFOs).
+* Industrial standard peripheral interfaces (AXI4-Lite, APB, SPI Master-Slave).
+
+### 📁 5. System-Level Digital Projects
+*Focus: Full SoC integration, data flow optimization, and custom processor cores.*
+* Multi-module subsystem execution architectures (e.g., Pipelined Processors).
+* Multi-master arbitration policies and shared bus infrastructure.
+
+### 📁 6. FPGA-Projects
+*Focus: Target board compilation, resource utilization optimization, and physical physical constraint management.*
+* Hardware implementation testing on physical evaluation boards (e.g., Xilinx Artix-7).
+* Direct interfacing with peripheral displays, external memory blocks, and serial communication transceivers.
+
+---
+
+## ⚙️ Engineering & Quality Guidelines Followed
+1. **Zero Non-Synthesizable Constructs inside `/rtl`:** All active design modules are validated for structural synthesis.
+2. **Deterministic Coding:** No clock logic gating within the design; explicit edge-triggered clock distribution networks.
+3. **Rigorous Test Frameworks:** Self-checking testbenches with simulated functional boundary analysis.
+
 ## 📚 Currently Learning
 - Digital Design Fundamentals
 - Verilog HDL
