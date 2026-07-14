@@ -1,5 +1,6 @@
 # Pruthviraj kalashetty
 
+![.](Image.png)
 ## Electronics & Communication Engineering Student
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
