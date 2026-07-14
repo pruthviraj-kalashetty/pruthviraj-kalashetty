@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Portfolio-Active-orange?style=for-the-badge"/>
 </p>
 
-*A structured engineering portfolio documenting my journey from **Digital Design Fundamentals** to **Verilog RTL Design**, **Computer Architecture**, **Reusable RTL IP Development**, **System-Level Digital Design**, and **FPGA Implementation**, with a focus on building industry-ready skills in **RTL Design** and **VLSI Engineering**.*
+*A structured engineering portfolio documenting my journey through **Digital Design**, **Computer Architecture**, **RTL Design**, **Reusable Hardware IP Development**, **System-Level Digital Design**, and **FPGA Implementation**, with a focus on building industry-ready skills in **RTL Design** and **VLSI Engineering**.*
+
 ## Electronics & Communication Engineering Student
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
