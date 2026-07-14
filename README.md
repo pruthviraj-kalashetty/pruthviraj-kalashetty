@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="Image.png" width="50%" alt="RTL Design & VLSI Banner"/>
-
 # Pruthviraj Kalashetty
 
 ### RTL Design • Digital Design • VLSI Engineering
