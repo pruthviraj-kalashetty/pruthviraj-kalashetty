@@ -1,6 +1,9 @@
 # Pruthviraj kalashetty
 
-![.](Image.png)
+<p align="center">
+  <img src="Image.png" alt="Repository Banner" width="900">
+</p>
+
 ## Electronics & Communication Engineering Student
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
