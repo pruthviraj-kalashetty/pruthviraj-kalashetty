@@ -2,14 +2,18 @@
 
 ### RTL Design • Digital Design • VLSI Engineering
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Domain-VLSI%20Engineering-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-RTL%20Design-00C8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Digital%20Design-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Portfolio-Active-orange?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/VLSI-Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTL-Design-00C8FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital-Design-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Learning-orange?style=for-the-badge"/>
 </p>
 
-*A structured engineering portfolio documenting my journey through **Digital Design**, **Computer Architecture**, **RTL Design**, **Reusable Hardware IP Development**, **System-Level Digital Design**, and **FPGA Implementation**, with a focus on building industry-ready skills in **RTL Design** and **VLSI Engineering**.*
+*A structured learning portfolio focused on RTL Design, Digital Design, FPGA Development, and VLSI Engineering.*
+
+</div>
+
+---
 
 ## Electronics & Communication Engineering Student
 
@@ -68,4 +72,3 @@ Welcome to my comprehensive RTL development and hardware engineering profile. Th
 ## 📫 Connect with me
 - 💼 LinkedIn: Your LinkedIn link
 - 📧 Email: your@email.com
-
