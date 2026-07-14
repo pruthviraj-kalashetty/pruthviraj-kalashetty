@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="Image.png" width="100%" alt="RTL Design & VLSI Banner"/>
+<img src="Image.png" width="50%" alt="RTL Design & VLSI Banner"/>
 
-# Hi, I'm Pruthviraj Kalashetty 👋
+# Pruthviraj Kalashetty
 
 ### RTL Design • Digital Design • VLSI Engineering
 
@@ -19,88 +19,61 @@
 
 ---
 
-# 👨‍💻 About Me
+## Electronics & Communication Engineering Student
 
-- 🎓 B.Tech in **Electronics & Communication Engineering** at **LAEC, Bidar**
-- 💡 Passionate about **RTL Design, Digital Design, VLSI Engineering, and FPGA Development**
-- 🌱 Currently learning **Digital Design, Verilog HDL, RTL Design, FPGA Fundamentals, and Computer Architecture**
-- 🎯 Building a professional GitHub portfolio covering **Digital Design Theory → RTL Design → FPGA Implementation**
+- 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
+
+- **💡 Passionate about:-** VLSI Design,Digital Design,RTL Design,Verilog HDL.
+
+- **🌱 Currently Learning:-** Digital Design Fundamentals,Verilog HDL,RTL Design,FPGA Basics.
+
+- 🛠️ Actively building a structured, ground-up portfolio covering digital design theory to full hardware implementation.
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Verilog HDL.
+
+**Tools & Platform**
+- AMD Vivado.
+- ModelSim.
+- GTKWave.
+
+**Hardware Knowledge**
+- FPGA Deployment.
+- FSM Optimization.
+- Clock Domain Crossing (CDC).
+
+## 🗂️ Core Hardware Repository Architecture
+My GitHub profile is strictly organized into six specialized repositories tracking my progression as an RTL Engineer:
+
+### 🏛️ Architecture & Theory
+* **[VLSI-Learning-Journey](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI
+)**: Foundations of Digital Design, Timing Constraints ($T_{setup}$/$T_{hold}$), and Clock Domain Crossing theory.
+* **[Computer-Architecture](https://github.com/pruthviraj-kalashetty/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
+
+### 💻 RTL Implementation & Controllers
+* **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
+* **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**: Custom-built communication IP controllers (UART with 16x oversampling, SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
+
+### 🚀 System Integration & Silicon
+* **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
+* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
+
+# Advanced Register-Transfer Level (RTL) & Digital Systems Portfolio
+
+Welcome to my comprehensive RTL development and hardware engineering profile. This repository contains structured modules that reflect a professional progression from fundamental digital VLSI concepts to complex, system-level FPGA implementations.
 
 ---
 
-# 🛠️ Technical Skills
-
-## Languages
-
+## 📚 Currently Learning
+- Digital Design Fundamentals
 - Verilog HDL
-
-## EDA Tools
-
-- AMD Vivado
-- ModelSim
-- GTKWave
-
-## Core Knowledge
-
-- Digital Logic Design
-- Boolean Algebra
-- Combinational Logic
-- Sequential Logic
-- Finite State Machines (FSM)
-- Timing Analysis
-- FPGA Fundamentals
-
----
-
-# 📂 Featured Repositories
-
-## 📘 Digital Design & VLSI Fundamentals
-
-Theory covering Digital Electronics, CMOS Fundamentals, Timing Analysis, FSM, Logic Design, and introductory VLSI concepts.
-
-## 💻 Verilog Practice
-
-RTL coding exercises including combinational logic, sequential logic, synthesizable Verilog modules, and testbenches.
-
-## 🖥️ Computer Architecture
-
-Processor organization, pipelining, memory hierarchy, cache, instruction execution, and architecture fundamentals.
-
-## ⚙️ RTL Design IPs
-
-Reusable RTL IP cores including UART, SPI, I²C, FIFO, ALU, Counters, and other digital hardware modules.
-
-## 🚀 System-Level Digital Projects
-
-Complete digital systems integrating multiple RTL blocks into functional hardware designs.
-
-## 🔷 FPGA Projects
-
-FPGA implementation, synthesis, timing analysis, hardware validation, and board-level projects using AMD Vivado.
-
----
-
-# 🎯 Current Focus
-
-- Digital Design
 - RTL Design
-- Verilog HDL
-- FPGA Design
-- VLSI Engineering
+- FPGA Basics
 
----
 
-# 📫 Connect With Me
+## 📫 Connect with me
+- 💼 LinkedIn: Your LinkedIn link
+- 📧 Email: your@email.com
 
-- 💼 LinkedIn: *Your LinkedIn URL*
-- 📧 Email: *your@email.com*
-
----
-
-<div align="center">
-
-### ⭐ RTL Design • Digital Design • FPGA • VLSI Engineering ⭐
-
-*"Building strong digital hardware foundations, one design at a time."*
-
-</div>
