@@ -72,7 +72,7 @@
 - GTKWave
 - Git & GitHub
 - Linux
-- 
+  
 ---
 
 ## 🗂️ Core Hardware Repository Architecture
