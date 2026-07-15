@@ -5,16 +5,15 @@
 <p>
   <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-00C8FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Digital%20Design-FSM%20%7C%20Timing%20%7C%20Logic-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLSI-ASIC%20%7C%20CMOS%20Design-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI-ASIC%20Front--End-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Verification-Testbench%20%7C%20SVA%20%7C%20UVM-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FPGA-Hardware%20Implementation-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA-Design-success?style=for-the-badge"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/RTL%20IPs-UART%20%7C%20SPI%20%7C%20I2C%20%7C%20FIFO-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Architecture-CPU%20%7C%20RISC--V%20%7C%20Pipelining-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA%20%7C%20Physical%20Design-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA%20Tools-Vivado%20%7C%20Simulation-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-CPU%20%7C%20RISC--V-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
 </p>
 ## About Me
 
