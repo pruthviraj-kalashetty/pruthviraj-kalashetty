@@ -1,6 +1,6 @@
 # Pruthviraj Kalashetty
 
-### RTL Design Engineer • VLSI Engineer • Digital Hardware Designer
+### RTL Design Enthusiast • VLSI Engineer Aspirant • Digital Hardware Designer
 
 <p>
   <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-00C8FF?style=for-the-badge"/>
@@ -74,7 +74,7 @@
 ---
 
 ## 🗂️ Core Hardware Repository Architecture
-My GitHub profile is strictly organized into six specialized repositories tracking my progression as an RTL Engineer:
+My GitHub profile is strictly organized into eight specialized repositories tracking my progression as an RTL Engineer:
 
 ### 🏛️ Architecture & Theory
 * **[VLSI-Learning-Journey](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI
@@ -89,13 +89,21 @@ My GitHub profile is strictly organized into six specialized repositories tracki
 * **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
 * **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
 
-# Advanced Register-Transfer Level (RTL) & Digital Systems Portfolio
+### 🔍 Verification & ASIC Flow
+
+* **SystemVerilog-and-Verification**: SystemVerilog testbenches, assertions, functional coverage, and verification methodology.
+
+* **ASIC-Flow**: RTL-to-GDSII overview covering synthesis, timing analysis, and physical design concepts.
+  
+---
+
+### Advanced Register-Transfer Level (RTL) & Digital Systems Portfolio
 
 Welcome to my comprehensive RTL development and hardware engineering profile. This repository contains structured modules that reflect a professional progression from fundamental digital VLSI concepts to complex, system-level FPGA implementations.
 
 ---
 
-## VLSI Learning Journey
+## VLSI RTL Learning Journey
 
 📌 Digital Systems and VLSI  
 📌 Verilog RTL Design  
