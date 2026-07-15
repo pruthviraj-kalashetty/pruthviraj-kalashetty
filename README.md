@@ -1,19 +1,91 @@
 # Pruthviraj Kalashetty
 
-### RTL Design • Digital Design • VLSI Engineering
+### RTL Design Engineer • VLSI Engineer • Digital Hardware Designer
 
 <p>
-  <img src="https://img.shields.io/badge/VLSI-Engineering-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RTL-Design-00C8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital-Design-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Learning-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-Verification-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA-Design-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI-Engineering-purple?style=for-the-badge"/>
 </p>
 
-*A structured learning portfolio focused on RTL Design, Digital Design, FPGA Development, and VLSI Engineering.*
+---
 
-</div>
+## About Me
+
+Electronics and Communication Engineering student focused on **RTL Design and VLSI Engineering**.
+
+Building expertise in:
+
+- Digital System Design
+- CMOS & VLSI Fundamentals
+- Verilog RTL Development
+- SystemVerilog Verification
+- Computer Architecture
+- FPGA Implementation
+- ASIC Design Flow
 
 ---
+
+## Technical Skills
+
+### Hardware Design
+- Digital Logic Design
+- Combinational & Sequential Circuits
+- FSM Design
+- Timing Analysis
+- CMOS Fundamentals
+
+### RTL Development
+- Verilog HDL
+- SystemVerilog
+- RTL Coding Practices
+- Testbench Development
+- Simulation & Debugging
+
+### Protocols & IP Design
+- UART
+- SPI
+- I2C
+- FIFO
+- AMBA APB
+- Basic RISC-V Core
+
+### Tools
+- Icarus Verilog
+- GTKWave
+- Vivado
+- Git & GitHub
+
+---
+
+## VLSI Learning Journey
+
+📌 Digital Systems and VLSI  
+📌 Verilog RTL Design  
+📌 Computer Architecture  
+📌 RTL Design IP Development  
+📌 FPGA Projects  
+📌 SystemVerilog & Verification  
+📌 ASIC Design Flow  
+
+---
+
+## Featured Projects
+
+🔹 UART Controller – Verilog RTL  
+🔹 SPI Master/Slave Controller  
+🔹 I2C Controller  
+🔹 Synchronous & Asynchronous FIFO  
+🔹 RISC-V Basic Processor  
+🔹 FPGA Hardware Projects  
+
+---
+
+## Goal
+
+To develop efficient and reliable hardware designs and contribute to the semiconductor industry through RTL Design and VLSI Engineering.
 
 ## Electronics & Communication Engineering Student
 
