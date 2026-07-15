@@ -66,11 +66,13 @@
 - Basic RISC-V Core
 
 **Tools**
+- Xilinx Vivado
+- ModelSim
 - Icarus Verilog
 - GTKWave
-- Vivado
 - Git & GitHub
-
+- Linux
+- 
 ---
 
 ## 🗂️ Core Hardware Repository Architecture
