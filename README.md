@@ -16,7 +16,49 @@
   <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
 </p>
 ## About Me
+## 🛠️ Tools & Technologies
 
+### RTL Design & Simulation
+<p>
+  <img src="https://img.shields.io/badge/Verilog%20HDL-RTL%20Design-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-Design%20%26%20Verification-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Icarus%20Verilog-Simulation-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GTKWave-Waveform%20Analysis-green?style=for-the-badge"/>
+</p>
+
+### FPGA Development
+<p>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-FPGA%20Design-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Intel%20Quartus-FPGA%20Flow-orange?style=for-the-badge"/>
+</p>
+
+### ASIC Design Flow
+<p>
+  <img src="https://img.shields.io/badge/Synthesis-RTL%20to%20Netlist-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Static%20Timing%20Analysis-STA-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Physical%20Design-ASIC%20Flow-red?style=for-the-badge"/>
+</p>
+
+### EDA Tools
+<p>
+  <img src="https://img.shields.io/badge/Synopsys-VCS%20%7C%20Design%20Compiler-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cadence-Xcelium%20%7C%20Genus-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cadence-Innovus-orange?style=for-the-badge"/>
+</p>
+
+### Verification Tools
+<p>
+  <img src="https://img.shields.io/badge/UVM-Verification%20Methodology-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Assertions-SVA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Functional%20Coverage-SystemVerilog-success?style=for-the-badge"/>
+</p>
+
+### Development Environment
+<p>
+  <img src="https://img.shields.io/badge/Linux-Command%20Line-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge"/>
+</p>
 Electronics and Communication Engineering student focused on **RTL Design and VLSI Engineering**.
 
 Building expertise in:
