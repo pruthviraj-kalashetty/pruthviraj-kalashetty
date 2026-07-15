@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
 </p>
 
-## Electronics & Communication Engineering Student
+## Electronics & Communication Engineering Student focused on
+**RTL Design and VLSI Engineering**.
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
 
@@ -26,26 +27,51 @@
 
 - 🛠️ Actively building a structured, ground-up portfolio covering digital design theory to full hardware implementation.
 
-## 🛠️ Tech Stack
+---
 
-**Languages**
-- Verilog HDL.
+**Building expertise in:**
 
-**Tools & Technologies**
+- Digital System Design
+- CMOS & VLSI Fundamentals
+- Verilog RTL Development
+- SystemVerilog Verification
+- Computer Architecture
+- FPGA Implementation
+- ASIC Design Flow
+  
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-FPGA%20Design-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ModelSim-RTL%20Simulation-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GTKWave-Waveform%20Analysis-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Icarus%20Verilog-Verilog%20Simulation-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-Development%20Environment-yellow?style=for-the-badge"/>
-</p>
+## **Technical Skills**
 
-**Hardware Knowledge**
-- FPGA Deployment.
-- FSM Optimization.
-- Clock Domain Crossing (CDC).
+**Hardware Design**
+- Digital Logic Design
+- Combinational & Sequential Circuits
+- FSM Design
+- Timing Analysis
+- CMOS Fundamentals
+
+**RTL Development**
+- Verilog HDL
+- SystemVerilog
+- RTL Coding Practices
+- Testbench Development
+- Simulation & Debugging
+
+**Protocols & IP Design**
+- UART
+- SPI
+- I2C
+- FIFO
+- AMBA APB
+- Basic RISC-V Core
+
+**Tools**
+- Icarus Verilog
+- GTKWave
+- Vivado
+- Git & GitHub
+
+---
 
 ## 🗂️ Core Hardware Repository Architecture
 My GitHub profile is strictly organized into six specialized repositories tracking my progression as an RTL Engineer:
@@ -69,12 +95,26 @@ Welcome to my comprehensive RTL development and hardware engineering profile. Th
 
 ---
 
-## 📚 Currently Learning
-- Digital Design Fundamentals
-- Verilog HDL
-- RTL Design
-- FPGA Basics
+## VLSI Learning Journey
 
+📌 Digital Systems and VLSI  
+📌 Verilog RTL Design  
+📌 Computer Architecture  
+📌 RTL Design IP Development  
+📌 FPGA Projects  
+📌 SystemVerilog & Verification  
+📌 ASIC Design Flow  
+
+---
+
+## Featured Projects
+
+🔹 UART Controller – Verilog RTL  
+🔹 SPI Master/Slave Controller  
+🔹 I2C Controller  
+🔹 Synchronous & Asynchronous FIFO  
+🔹 RISC-V Basic Processor  
+🔹 FPGA Hardware Projects  
 
 ## 📫 Connect with me
 - 💼 LinkedIn: Your LinkedIn link
