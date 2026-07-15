@@ -1,15 +1,23 @@
 # Pruthviraj Kalashetty
 
-### RTL Design Engineer • VLSI Engineer • Digital Hardware Designer
+### RTL Design Engineer • VLSI Engineer • Digital Hardware Designer • FPGA Developer
 
 <p>
-  <img src="https://img.shields.io/badge/RTL-Design-00C8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Verilog-HDL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTL%20Design-Engineer-00C8FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verilog%20HDL-RTL%20Development-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SystemVerilog-Verification-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FPGA-Design-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLSI-Engineering-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UVM-Verification%20Methodology-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA-Hardware%20Implementation-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLSI-ASIC%20Design-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-Processor%20Design-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Digital%20Design-Logic%20%7C%20FSM%20%7C%20Timing-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTL%20IPs-UART%20%7C%20SPI%20%7C%20I2C%20%7C%20FIFO-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA%20Tools-Vivado%20%7C%20Simulation-brightgreen?style=for-the-badge"/>
+</p>
 ---
 
 ## About Me
