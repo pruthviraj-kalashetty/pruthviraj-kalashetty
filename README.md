@@ -1,6 +1,6 @@
 # Pruthviraj Kalashetty
 
-### RTL Design Enthusiast • VLSI Engineer Aspirant • Digital Hardware Designer
+### RTL Design Engineer • VLSI Engineer • Digital Hardware Designer • ASIC Front-End-Design
 
 <p>
   <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-00C8FF?style=for-the-badge"/>
