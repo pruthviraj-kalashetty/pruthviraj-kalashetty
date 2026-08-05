@@ -99,21 +99,23 @@ My GitHub profile is strictly organized into eight specialized repositories trac
   
 ---
 
-### Advanced Register-Transfer Level (RTL) & Digital Systems Portfolio
-
-Welcome to my comprehensive RTL development and hardware engineering profile. This repository contains structured modules that reflect a professional progression from fundamental digital VLSI concepts to complex, system-level FPGA implementations.
-
----
-
 ## VLSI RTL Learning Journey
 
-📌 Digital Systems and VLSI  
-📌 Verilog RTL Design  
-📌 Computer Architecture  
-📌 RTL Design IP Development  
-📌 FPGA Projects  
-📌 SystemVerilog & Verification  
-📌 ASIC Design Flow  
+Digital Design
+        ↓
+Verilog HDL
+        ↓
+RTL Design
+        ↓
+Computer Architecture
+        ↓
+RTL IP Design
+        ↓
+SystemVerilog Verification
+        ↓
+ASIC Flow
+        ↓
+FPGA Implementation
 
 ---
 
@@ -125,6 +127,22 @@ Welcome to my comprehensive RTL development and hardware engineering profile. Th
 🔹 Synchronous & Asynchronous FIFO  
 🔹 RISC-V Basic Processor  
 🔹 FPGA Hardware Projects  
+
+---
+
+## Repositary Status
+
+**Repository**                  **Progress**
+
+Digital Systems               ██████░░░
+
+Verilog Practice              █████░░░░
+
+Computer Architecture         ░░░░░░░░░
+
+RTL Design IPs                ░░░░░░░░░
+
+---
 
 ## 📫 Connect with me
 - 💼 LinkedIn: Your LinkedIn link
