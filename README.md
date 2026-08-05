@@ -43,17 +43,44 @@ My goal is to build industry-ready RTL design skills and pursue a career as an *
 
 **Hardware Design**
 - Digital Logic Design
-- Combinational & Sequential Circuits
-- FSM Design
-- Timing Analysis
+- Combinational
+- Sequential Circuits
+- finite State Machine (FSM) 
+- Timing Concepts
 - CMOS Fundamentals
 
-**RTL Development**
+**HDL & RTL Development**
 - Verilog HDL
-- SystemVerilog
-- RTL Coding Practices
+- System Verilog
+- RTL Coding
 - Testbench Development
 - Simulation & Debugging
+
+**Digital Design**
+- Arithmetic Circuits
+- Multiplexers & Demultiplexers
+- Encoders & Decoders
+- Comparators
+- Registers & Counters
+- Shift Registers
+
+**Computer Architecture**
+- Processor Fundamentals
+- ALU Design
+- Memory Organization
+- Basic RISC-V Concepts
+
+**Verification & Simulation**
+- Functional Simulation
+- Waveform Analysis
+- RTL Debugging
+- Self-Checking Testbenches
+
+**FPGA & ASIC**
+- FPGA Fundamentals
+- ASIC Front-End Flow (Learning)
+- RTL-to-GDSII Flow (Learning)
+- Static Timing Analysis (Learning)
 
 **Protocols & IP Design**
 - UART
@@ -65,11 +92,13 @@ My goal is to build industry-ready RTL design skills and pursue a career as an *
 
 **Tools**
 - Xilinx Vivado
-- ModelSim
 - Icarus Verilog
 - GTKWave
+- ModelSim (Learning)
 - Git & GitHub
 - Linux
+- Visual Studio Code
+
   
 ---
 
