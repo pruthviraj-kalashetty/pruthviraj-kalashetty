@@ -16,6 +16,13 @@
   <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Tools-Linux%20%7C%20Git%20%7C%20Vivado-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTL%20IPs-UART%20%7C%20SPI%20%7C%20I2C%20%7C%20FIFO-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-CPU%20%7C%20RISC--V-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
+</p>
+
 ## Electronics & Communication Engineering Student focused on
 **RTL Design and VLSI Engineering**.
 
