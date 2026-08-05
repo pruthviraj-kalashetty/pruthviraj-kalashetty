@@ -29,15 +29,13 @@
 
 ---
 
-**Building expertise in:**
+## 👨‍💻 About Me
 
-- Digital System Design
-- CMOS & VLSI Fundamentals
-- Verilog RTL Development
-- SystemVerilog Verification
-- Computer Architecture
-- FPGA Implementation
-- ASIC Design Flow
+I am an Electronics & Communication Engineering student with a strong interest in **ASIC Front-End Design, RTL Development, and Digital Hardware Design**.
+
+I am building a structured learning portfolio covering **Digital Design, Verilog HDL, SystemVerilog, Computer Architecture, FPGA, and the ASIC Design Flow** through well-documented notes, RTL implementations, and hardware projects.
+
+My goal is to build industry-ready RTL design skills and pursue a career as an **ASIC RTL Design Engineer**.
   
 ---
 
