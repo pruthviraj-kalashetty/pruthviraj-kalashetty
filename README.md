@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-00C8FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Digital%20Design-FSM%20%7C%20Timing%20%7C%20Logic-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VLSI-ASIC%20Front--End-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Verification-Testbench%20%7C%20SVA%20%7C%20UVM-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verification-Testbench%20%7C%20Simulation%20%7C%20Debugging-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FPGA-Design-success?style=for-the-badge"/>
 </p>
 
