@@ -19,13 +19,13 @@
 ---
 
 ## Electronics & Communication Engineering Student focused on
-**RTL Design and VLSI Engineering**.
+**ASIC Front-End RTL Design and Digital VLSI Engineering.**.
 
 - 🎓 **Pursuing B.Tech in Electronics & communication Engineering at LAEC, Bidar.**
 
 - **💡 Passionate about:-** VLSI Design,Digital Design,RTL Design,Verilog HDL.
 
-- **🌱 Currently Learning:-** Digital Design Fundamentals,Verilog HDL,RTL Design,FPGA Basics.
+- **🌱 Currently Learning:-** Digital Design,Verilog HDL,Computer Architeccture,RTL Design,FPGA Basics.
 
 - 🛠️ Actively building a structured, ground-up portfolio covering digital design theory to full hardware implementation.
 
@@ -35,7 +35,7 @@
 
 I am an Electronics & Communication Engineering student with a strong interest in **ASIC Front-End Design, RTL Development, and Digital Hardware Design**.
 
-I am building a structured learning portfolio covering **Digital Design, Verilog HDL, SystemVerilog, Computer Architecture, FPGA, and the ASIC Design Flow** through well-documented notes, RTL implementations, and hardware projects.
+I am building a structured learning portfolio covering **Digital Design, Verilog HDL, SystemVerilog, Computer Architecture, RTL IP Developement, and the ASIC Design Flow** through well-documented notes, RTL implementations, and hardware projects.
 
 My goal is to build industry-ready RTL design skills and pursue a career as an **ASIC RTL Design Engineer**.
   
@@ -52,8 +52,8 @@ My goal is to build industry-ready RTL design skills and pursue a career as an *
 - CMOS Fundamentals
 
 **HDL & RTL Development**
-- Verilog HDL
-- System Verilog
+- Verilog 
+- SystemVerilog
 - RTL Coding
 - Testbench Development
 - Simulation & Debugging
@@ -114,11 +114,11 @@ My GitHub profile is strictly organized into eight specialized repositories trac
 
 ### 💻 RTL Implementation & Controllers
 * **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
-* **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**: Custom-built communication IP controllers (UART with 16x oversampling, SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
+* **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**: RTL implementations of communication IPs (SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
 
 ### 🚀 System Integration & Silicon
 * **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
-* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **Custom RISC Processor Core**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
+* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **RISC-V based learning projects**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
 
 ### 🔍 Verification & ASIC Flow
 
@@ -134,22 +134,22 @@ Digital Design
         ↓
 Verilog HDL
         ↓
-RTL Design
-        ↓
 Computer Architecture
+        ↓
+RTL Design
         ↓
 RTL IP Design
         ↓
+System-Level Design
+        ↓
 SystemVerilog Verification
         ↓
-ASIC Flow
-        ↓
-FPGA Implementation
+ASIC Front-End Flow
 
 ---
 
 ## Featured Projects
-
+must to do this 
 🔹 UART Controller – Verilog RTL  
 🔹 SPI Master/Slave Controller  
 🔹 I2C Controller  
@@ -159,7 +159,7 @@ FPGA Implementation
 
 ---
 
-## Repositary Status
+## Repository Status
 
 **Repository**                  **Progress**
 
@@ -177,3 +177,6 @@ RTL Design IPs                ░░░░░░░░░
 - 💼 LinkedIn: Your LinkedIn link
 - 📧 Email: your@email.com
 
+## Career Objective
+
+To build a strong career in Digital VLSI as an ASIC Front-End RTL Design Engineer by developing expertise in Digital Design, Verilog/SystemVerilog, RTL IP Development, Computer Architecture, Functional Verification, and the ASIC design flow.
