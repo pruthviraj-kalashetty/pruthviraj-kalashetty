@@ -1,4 +1,4 @@
-# Pruthviraj Kalashetty
+# ◈ Pruthviraj Kalashetty
 
 ### RTL Design • ASIC Front-End • Digital Hardware Design • VLSI Engineering
 
