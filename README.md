@@ -163,9 +163,9 @@ must to do this
 
 **Repository**                  **Progress**
 
-Digital Systems               ██████░░░
+Digital Systems               ████████░
 
-Verilog Practice              █████░░░░
+Verilog Practice              ██░░░░░░░
 
 Computer Architecture         ░░░░░░░░░
 
