@@ -107,9 +107,10 @@ My goal is to build industry-ready RTL design skills and pursue a career as an *
 ## 🗂️ Core Hardware Repository Architecture
 My GitHub profile is strictly organized into eight specialized repositories tracking my progression as an RTL Engineer:
 
-### 🏛️ Architecture & Theory
-* **[VLSI-Learning-Journey](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI
-)**: Foundations of Digital Design, Timing Constraints ($T_{setup}$/$T_{hold}$), and Clock Domain Crossing theory.
+### 🏛️ Architecture, Digital Design & VLSI Foundations
+
+* **[Digital-Systems-and-VLSI](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI)**: Covers Digital Electronics and VLSI fundamentals, Semiconductor and CMOS concepts, and Timing & Static Timing Analysis (STA), building the theoretical foundation required for ASIC RTL and digital design.
+* 
 * **[Computer-Architecture](https://github.com/pruthviraj-kalashetty/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
 
 ### 💻 RTL Implementation & Controllers
