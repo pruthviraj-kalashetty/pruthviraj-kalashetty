@@ -161,17 +161,17 @@ must to do this
 
 ---
 
-## Repository Status
+## 📊 Learning & Repository Progress
 
-**Repository**                  **Progress**
-
-Digital Systems               ████████░
-
-Verilog Practice              ██░░░░░░░
-
-Computer Architecture         ░░░░░░░░░
-
-RTL Design IPs                ░░░░░░░░░
+```text
+[01] Digital Systems & VLSI    [██████████] 100% Completed
+[02] Verilog Practice          [███░░░░░░░]  30% In Progress
+[03] Computer Architecture     [░░░░░░░░░░]   0% Planned
+[04] RTL Design IPs            [░░░░░░░░░░]   0% Planned
+[05] System-Level Projects     [░░░░░░░░░░]   0% Planned
+[06] FPGA Projects             [░░░░░░░░░░]   0% Planned
+[07] SystemVerilog Verification[░░░░░░░░░░]   0% Planned
+[08] ASIC Flow & Synthesis     [░░░░░░░░░░]   0% Planned
 
 ---
 
