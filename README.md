@@ -2,18 +2,18 @@
 
 ### RTL Design • ASIC Front-End • Digital Hardware Design • VLSI Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/RTL%20Design-Verilog%20%7C%20SystemVerilog-00C8FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Digital%20Design-FSM%20%7C%20Timing%20%7C%20Logic-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VLSI-ASIC%20Front--End-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Verification-Testbench%20%7C%20Simulation%20%7C%20Debugging-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FPGA-Design-success?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_SystemVerilog-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Design-FSM_%7C_Timing_Slack_%7C_STA-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLSI-ASIC_Front--End-6F42C1?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verification-SVA_%7C_Testbenches_%7C_Coverage-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado_%7C_Artix--7-2EA44F?style=for-the-badge&logo=xilinx&logoColor=white"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/RTL%20IPs-UART%20%7C%20SPI%20%7C%20I2C%20%7C%20FIFO-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Architecture-CPU%20%7C%20RISC--V-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ASIC%20Flow-Synthesis%20%7C%20STA-black?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_Async_FIFO-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_Core_%7C_Pipelining-E3B341?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASIC_Flow-Synthesis_%7C_Timing_Closure-111111?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
