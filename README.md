@@ -114,14 +114,14 @@ must to do this
 ## 📊 Learning & Repository Progress
 
 ```text
-[01] Digital Systems & VLSI    [██████████] 100% Completed
-[02] Verilog Practice          [███░░░░░░░]  30% In Progress
-[03] Computer Architecture     [░░░░░░░░░░]   0% Planned
-[04] RTL Design IPs            [░░░░░░░░░░]   0% Planned
-[05] System-Level Projects     [░░░░░░░░░░]   0% Planned
-[06] FPGA Projects             [░░░░░░░░░░]   0% Planned
-[07] SystemVerilog Verification[░░░░░░░░░░]   0% Planned
-[08] ASIC Flow & Synthesis     [░░░░░░░░░░]   0% Planned
+[01] Digital Systems & VLSI     [████████████████████] 100% Completed
+[02] Verilog Design Practice    [██████░░░░░░░░░░░░░░]  30% In Progress
+[03] Computer Architecture      [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
+[04] RTL Design IPs             [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
+[05] System-Level Projects      [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
+[06] FPGA Prototyping           [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
+[07] SystemVerilog Verification [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
+[08] ASIC Flow & Synthesis      [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
 
 ```
 ---
