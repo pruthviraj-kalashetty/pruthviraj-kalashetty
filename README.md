@@ -41,65 +41,14 @@ My goal is to build industry-ready RTL design skills and pursue a career as an *
   
 ---
 
-## **Technical Skills**
+## 🛠️ Technical Skill Matrix
 
-**Hardware Design**
-- Digital Logic Design
-- Combinational
-- Sequential Circuits
-- finite State Machine (FSM) 
-- Timing Concepts
-- CMOS Fundamentals
-
-**HDL & RTL Development**
-- Verilog 
-- SystemVerilog
-- RTL Coding
-- Testbench Development
-- Simulation & Debugging
-
-**Digital Design**
-- Arithmetic Circuits
-- Multiplexers & Demultiplexers
-- Encoders & Decoders
-- Comparators
-- Registers & Counters
-- Shift Registers
-
-**Computer Architecture**
-- Processor Fundamentals
-- ALU Design
-- Memory Organization
-- Basic RISC-V Concepts
-
-**Verification & Simulation**
-- Functional Simulation
-- Waveform Analysis
-- RTL Debugging
-- Self-Checking Testbenches
-
-**FPGA & ASIC**
-- FPGA Fundamentals
-- ASIC Front-End Flow (Learning)
-- RTL-to-GDSII Flow (Learning)
-- Static Timing Analysis (Learning)
-
-**Protocols & IP Design**
-- UART
-- SPI
-- I2C
-- FIFO
-- AMBA APB
-- Basic RISC-V Core
-
-**Tools**
-- Xilinx Vivado
-- Icarus Verilog
-- GTKWave
-- ModelSim (Learning)
-- Git & GitHub
-- Linux
-- Visual Studio Code
+| Core Domain | Competencies, Standards & Protocols | EDA Tools & Environments |
+| :--- | :--- | :--- |
+| **HDLs & Verification** | Verilog (IEEE 1364-2001), SystemVerilog, SVA (Assertions), Self-Checking Testbenches | Xilinx Vivado, Icarus Verilog, GTKWave, ModelSim, Verilator |
+| **Digital & Microarchitecture** | Combinational/Sequential Logic, Mealy/Moore FSMs, Pipelining, Hazard Bypassing, RISC-V ISA | VS Code, Linux / Bash Scripting, Git & GitHub Version Control |
+| **Interfacing & Protocols** | Synchronous/Asynchronous FIFO (CDC), UART, SPI Master/Slave, I2C, AMBA APB / AXI4-Lite | Yosys Open Synthesis, OpenSTA (Static Timing Analysis) |
+| **VLSI & Timing Analysis** | Static Timing Analysis (STA), Setup/Hold Slack, Clock Skew/Jitter, Metastability, Clock Gating | Tcl Scripting for Tool Automation |
 
 ---
 
