@@ -101,32 +101,33 @@ My goal is to build industry-ready RTL design skills and pursue a career as an *
 - Linux
 - Visual Studio Code
 
-  
 ---
 
-## 🗂️ Core Hardware Repository Architecture
-My GitHub profile is strictly organized into eight specialized repositories tracking my progression as an RTL Engineer:
+## 🗂️ Core Hardware Repository Roadmap
 
-### 🏛️ Digital Design & VLSI Foundations
+My engineering work is organized into eight structured repositories tracking my progression from logic gates to full silicon synthesis:
 
-**[Digital-Systems-and-VLSI](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI)**  
-`Digital Electronics` · `Semiconductor & CMOS` · `Timing & STA`
- 
-* **[Computer-Architecture](https://github.com/pruthviraj-kalashetty/Computer-Architecture)**: Microarchitecture analyses covering pipelining, bypassing, stalling, and memory hierarchy.
+### 🏛️ Phase 1: Foundations & Architecture
+1. **[Digital-Systems-and-VLSI](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI)**  
+   `Digital Logic` · `CMOS Electronics` · `Setup/Hold Slack Math` · `Clock Skew`
+2. **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**  
+   `Synthesizable RTL` · `Mealy/Moore FSMs` · `Clock Dividers` · `Self-Checking Testbenches`
+3. **[Computer-Architecture](https://github.com/pruthviraj-kalashetty/Computer-Architecture)**  
+   `Pipeline Stages` · `Hazard Forwarding` · `Branch Prediction` · `Memory Hierarchy`
 
-### 💻 RTL Implementation & Controllers
-* **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**: Synthesizable hardware primitives—ALUs, multiplexers, cascading adders, and structural blocks.
-* **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**: RTL implementations of communication IPs (SPI Master/Slave, and I2C bidirectional architectures) alongside specialized FSM architectures.
+### 🚀 Phase 2: IPs & System Integration
+4. **[RTL-Design-IPs](https://github.com/pruthviraj-kalashetty/RTL-Design-IPs)**  
+   `Async FIFO (CDC)` · `AMBA AXI4-Lite` · `UART` · `SPI Master/Slave` · `I2C`
+5. **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**  
+   `Pipelined RISC-V Core` · `SoC Interconnect` · `Memory Controllers`
+6. **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**  
+   `Board Bring-Up` · `Xilinx Vivado ILA` · `Hardware Debouncers` · `Clock Wizards`
 
-### 🚀 System Integration & Silicon
-* **[System-Level-Digital-Projects](https://github.com/pruthviraj-kalashetty/System-Level-Digital-Projects)**: Multi-component systems integrating custom compute blocks, internal interconnect configurations, and memory matrices.
-* **[FPGA-Projects](https://github.com/pruthviraj-kalashetty/FPGA-Projects)**: System-on-Chip deployment projects, including a **RISC-V based learning projects**, hardware debouncers, clock wizards, and real hardware testing using Vivado ILA.
-
-### 🔍 Verification & ASIC Flow
-
-* **SystemVerilog-and-Verification**: SystemVerilog testbenches, assertions, functional coverage, and verification methodology.
-
-* **ASIC-Flow**: RTL-to-GDSII overview covering synthesis, timing analysis, and physical design concepts.
+### 🔍 Phase 3: Verification & Silicon Flow
+7. **[SystemVerilog-and-Verification](https://github.com/pruthviraj-kalashetty/SystemVerilog-and-Verification)**  
+   `SystemVerilog Assertions (SVA)` · `Constrained Random Testing` · `Functional Coverage`
+8. **[ASIC-Flow](https://github.com/pruthviraj-kalashetty/ASIC-Flow)**  
+   `RTL-to-GDSII Overview` · `Yosys/Design Compiler Synthesis` · `Static Timing Analysis (STA)`
   
 ---
 
