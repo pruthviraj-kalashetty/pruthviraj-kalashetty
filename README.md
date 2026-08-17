@@ -173,6 +173,7 @@ must to do this
 [07] SystemVerilog Verification[░░░░░░░░░░]   0% Planned
 [08] ASIC Flow & Synthesis     [░░░░░░░░░░]   0% Planned
 
+```
 ---
 
 ## 📫 Connect with me
