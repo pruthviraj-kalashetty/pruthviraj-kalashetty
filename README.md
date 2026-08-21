@@ -114,8 +114,8 @@ must to do this
 ## 📊 Learning & Repository Progress
 
 ```text
-[01] Digital Systems & VLSI     [████████████████████] 100% Completed
-[02] Verilog Design Practice    [██████░░░░░░░░░░░░░░]  30% In Progress
+[01] Digital Systems & VLSI     [████████████████░░░░] 90% Completed
+[02] Verilog Design Practice    [████████████░░░░░░░░]  60% In Progress
 [03] Computer Architecture      [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
 [04] RTL Design IPs             [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
 [05] System-Level Projects      [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
