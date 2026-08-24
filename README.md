@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_FIFO-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Architecture-ALU_%7C_Datapath_%7C_Memory-E3B341?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Development-Git_%7C_GitHub_%7C_VS_Code-111111?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_Core_%7C_Pipelining-E3B341?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASIC_Flow-Synthesis_%7C_Timing_Closure-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
 </p>
 
 ---
