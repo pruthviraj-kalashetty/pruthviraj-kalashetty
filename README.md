@@ -19,7 +19,7 @@
 
 ## Electronics & Communication Engineering Student focused on
 
-**RTL Design, Digital Hardware Design, and Computer Architecture.**
+**ASIC Front-End RTL Design and Digital VLSI Engineering.**.
 
 - 🎓 **Pursuing B.Tech in Electronics & Communication Engineering at LAEC, Bidar.**
 
