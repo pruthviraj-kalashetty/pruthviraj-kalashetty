@@ -1,26 +1,21 @@
-
 # ◈ Pruthviraj Kalashetty
-### RTL Design • Digital Micro-Architecture • Computer Architecture • RTL Engineering
+
+### RTL Design • Digital Hardware Design • Computer Architecture • VLSI Engineering
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RTL_Design-Verilog_HDL_%7C_RTL-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Logic-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Architecture-ALU_%7C_Datapath_%7C_Memory-E3B341?style=for-the-badge&logo=cpu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RTL_Development-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_RTL-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Design-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLSI-ASIC_Front--End-6F42C1?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verification-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado-2EA44F?style=for-the-badge&logo=xilinx&logoColor=white"/>
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_FIFO-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Protocols-UART_%7C_SPI_%7C_I2C_%7C_APB-6F42C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System_Design-RTL_Integration_%7C_Digital_Systems-2EA44F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Icarus_Verilog_%7C_GTKWave_%7C_VS_Code-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Protocols-UART_%7C_SPI_%7C_I2C_%7C_APB-E3B341?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Architecture-ALU_%7C_Datapath_%7C_Memory-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Development-Git_%7C_GitHub_%7C_VS_Code-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-
-
-
-
-
 
 # ◈ Pruthviraj Kalashetty
 
@@ -40,23 +35,6 @@
   <img src="https://img.shields.io/badge/Development-Git_%7C_GitHub_%7C_VS_Code-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-# ◈ Pruthviraj Kalashetty
-
-### RTL Design • ASIC Front-End • Digital Hardware Design • VLSI Engineering
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_SystemVerilog-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Design-FSM_%7C_Timing_Slack_%7C_STA-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VLSI-ASIC_Front--End-6F42C1?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verification-SVA_%7C_Testbenches_%7C_Coverage-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado_%7C_Artix--7-2EA44F?style=for-the-badge&logo=xilinx&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_Async_FIFO-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_Core_%7C_Pipelining-E3B341?style=for-the-badge&logo=riscv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASIC_Flow-Synthesis_%7C_Timing_Closure-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
 
 ---
 
