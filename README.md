@@ -3,22 +3,6 @@
 ### RTL Design • Digital Hardware Design • Computer Architecture • VLSI Engineering
 
 <p align="left">
-  <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_SystemVerilog-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Design-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verification-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_Async_FIFO-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_%7C_Datapath_%7C_Memory-E3B341?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-ModelSim_%7C_Vivado_%7C_GTKWave-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-# ◈ Pruthviraj Kalashetty
-
-### RTL Design • Digital Hardware Design • Computer Architecture • VLSI Engineering
-
-<p align="left">
   <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_RTL-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Digital_Design-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verification-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
