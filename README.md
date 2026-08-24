@@ -33,11 +33,11 @@
 
 ## 👨‍💻 About Me
 
-I am an Electronics & Communication Engineering student with a strong interest in **RTL Design, Digital Hardware Design, and VLSI Engineering**.
+I am an Electronics & Communication Engineering student with a strong interest in **ASIC Front-End Design, RTL Development, and Digital Hardware Design**.
 
-I am building a structured learning portfolio covering **Digital Design, Verilog HDL, Computer Architecture, RTL Design, RTL IP Development, and Hardware Communication Protocols** through well-documented notes, RTL implementations, testbenches, simulations, and system-level projects.
+I am building a structured learning portfolio covering **Digital Design, Verilog HDL, SystemVerilog, Computer Architecture, RTL IP Developement, and the ASIC Design Flow** through well-documented notes, RTL implementations, and hardware projects.
 
-My goal is to develop **industry-ready RTL design skills** and pursue a career as an **RTL Design Engineer**, with a long-term focus on digital VLSI and hardware design.
+My goal is to build industry-ready RTL design skills and pursue a career as an **ASIC RTL Design Engineer**.
 
 ---
 
