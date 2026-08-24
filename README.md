@@ -15,19 +15,7 @@
 </p>
 
 
-### RTL Design • ASIC Front-End • Digital Hardware Design • VLSI Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL\_Design-Verilog\_%7C\_SystemVerilog-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital\_Design-FSM\_%7C\_Timing\_Slack\_%7C\_STA-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VLSI-ASIC\_Front--End-6F42C1?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verification-SVA\_%7C\_Testbenches\_%7C\_Coverage-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-Xilinx\_Vivado\_%7C\_Artix--7-2EA44F?style=for-the-badge&logo=xilinx&logoColor=white"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL\_IPs-UART\_%7C\_SPI\_%7C\_I2C\_%7C\_Async\_FIFO-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer\_Architecture-RISC--V\_Core\_%7C\_Pipelining-E3B341?style=for-the-badge&logo=riscv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASIC\_Flow-Synthesis\_%7C\_Timing\_Closure-111111?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+
 
 
 # ◈ Pruthviraj Kalashetty
