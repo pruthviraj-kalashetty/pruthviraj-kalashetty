@@ -1,4 +1,22 @@
 # ◈ Pruthviraj Kalashetty
+### RTL Design • Digital Micro-Architecture • Computer Architecture • RTL Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_Design-Verilog_HDL_%7C_RTL-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Logic-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Architecture-ALU_%7C_Datapath_%7C_Memory-E3B341?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RTL_Development-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_FIFO-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Protocols-UART_%7C_SPI_%7C_I2C_%7C_APB-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-RTL_Integration_%7C_Digital_Systems-2EA44F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-Icarus_Verilog_%7C_GTKWave_%7C_VS_Code-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+
+# ◈ Pruthviraj Kalashetty
 ### RTL Design • Digital Micro-Architecture • Processor Design • System-on-Chip (SoC)
 
 <p align="left">
