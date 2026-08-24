@@ -12,31 +12,34 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_FIFO-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Protocols-UART_%7C_SPI_%7C_I2C_%7C_APB-E3B341?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Architecture-ALU_%7C_Datapath_%7C_Memory-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Development-Git_%7C_GitHub_%7C_VS_Code-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-# ◈ Pruthviraj Kalashetty
-
-### RTL Design • Digital Hardware Design • Computer Architecture • VLSI Engineering
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_RTL-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital_Design-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VLSI-ASIC_Front--End-6F42C1?style=for-the-badge&logo=intel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verification-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-Xilinx_Vivado-2EA44F?style=for-the-badge&logo=xilinx&logoColor=white"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_FIFO-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Architecture-ALU_%7C_Datapath_%7C_Memory-E3B341?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Development-Git_%7C_GitHub_%7C_VS_Code-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
 ---
+
+## Electronics & Communication Engineering Student focused on
+
+**RTL Design, Digital Hardware Design, and Computer Architecture.**
+
+- 🎓 **Pursuing B.Tech in Electronics & Communication Engineering at LAEC, Bidar.**
+
+- **💡 Passionate about:** VLSI Design, Digital Design, RTL Design, and Verilog HDL.
+
+- **🌱 Currently Learning:** Digital Design, Verilog HDL, Computer Architecture, RTL Design, RTL IP Design, and Digital Communication Protocols.
+
+- 🛠️ **Actively building a structured, ground-up portfolio covering digital design fundamentals, Verilog RTL development, RTL IPs, protocols, and system-level digital projects.**
+
+---
+
+## 👨‍💻 About Me
+
+I am an Electronics & Communication Engineering student with a strong interest in **RTL Design, Digital Hardware Design, and VLSI Engineering**.
+
+I am building a structured learning portfolio covering **Digital Design, Verilog HDL, Computer Architecture, RTL Design, RTL IP Development, and Hardware Communication Protocols** through well-documented notes, RTL implementations, testbenches, simulations, and system-level projects.
+
+My goal is to develop **industry-ready RTL design skills** and pursue a career as an **RTL Design Engineer**, with a long-term focus on digital VLSI and hardware design.
 
 ## Electronics & Communication Engineering Student focused on
 **ASIC Front-End RTL Design and Digital VLSI Engineering.**.
