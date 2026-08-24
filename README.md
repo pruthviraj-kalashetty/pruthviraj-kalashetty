@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/RTL_IPs-UART_%7C_SPI_%7C_I2C_%7C_Async_FIFO-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_%7C_Datapath_%7C_Memory-E3B341?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-EDA_%7C_GTKWave_%7C_ModelSim_%7C_Vivado-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-ModelSim_%7C_Vivado_%7C_GTKWave-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 # ◈ Pruthviraj Kalashetty
