@@ -45,10 +45,13 @@ My goal is to develop **industry-ready RTL design skills** and pursue a career a
 
 | Core Domain | Competencies, Standards & Protocols | EDA Tools & Environments |
 | :--- | :--- | :--- |
-| **HDLs & Verification** | Verilog (IEEE 1364-2001), SystemVerilog, SVA (Assertions), Self-Checking Testbenches | Xilinx Vivado, Icarus Verilog, GTKWave, ModelSim, Verilator |
-| **Digital & Microarchitecture** | Combinational/Sequential Logic, Mealy/Moore FSMs, Pipelining, Hazard Bypassing, RISC-V ISA | VS Code, Linux / Bash Scripting, Git & GitHub Version Control |
-| **Interfacing & Protocols** | Synchronous/Asynchronous FIFO (CDC), UART, SPI Master/Slave, I2C, AMBA APB / AXI4-Lite | Yosys Open Synthesis, OpenSTA (Static Timing Analysis) |
-| **VLSI & Timing Analysis** | Static Timing Analysis (STA), Setup/Hold Slack, Clock Skew/Jitter, Metastability, Clock Gating | Tcl Scripting for Tool Automation |
+| **HDL & RTL Design** | Verilog HDL, RTL Design, Dataflow Modeling, Structural Modeling, Combinational & Sequential RTL | VS Code, Icarus Verilog |
+| **Digital Design** | Logic Gates, Boolean Logic, Adders/Subtractors, MUX/DEMUX, Encoders/Decoders, Comparators, Flip-Flops, Registers, Counters, FSMs | GTKWave, Xilinx Vivado |
+| **Computer Architecture** | ALU, Datapath & Control, Registers, Memory Organization, Basic Processor Concepts | VS Code, Git & GitHub |
+| **RTL IP Design** | UART, SPI, I2C, FIFO, GPIO, Timers, and Peripheral RTL | Icarus Verilog, GTKWave |
+| **Protocols & Interfaces** | UART, SPI, I2C, APB and basic hardware communication concepts | RTL Simulation & Waveform Analysis |
+| **Verification & Simulation** | Verilog Testbenches, DUT Integration, Functional Simulation, Waveform Analysis, Debugging | Icarus Verilog, GTKWave, Vivado |
+| **Development Workflow** | RTL Source Management, Project Organization, Documentation, Version Control | Git, GitHub, VS Code |
 
 ---
 
