@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/RTL_Design-Verilog_%7C_RTL-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Digital_Design-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
   <img src="https://img.shields.io/badge/Verification-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-VS-code_Questasim_Iverilog-2EA44F?style=for-the-badge&logo=xilinx&logoColor=white"/>
+ 
 </p>
 
 <p align="left">
