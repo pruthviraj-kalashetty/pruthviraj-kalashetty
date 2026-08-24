@@ -1,3 +1,21 @@
+# ◈ Pruthviraj Kalashetty
+### RTL Design • Digital Micro-Architecture • Processor Design • System-on-Chip (SoC)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_Design-SystemVerilog_%7C_Verilog-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Processor_Design-5--Stage_Pipelined_RISC--V-E3B341?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Logic-FSM_%7C_Datapath_%7C_Timing_Slack-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CDC_Design-Dual--Clock_Async_FIFO_%7C_2--FF-8A2BE2?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bus_Protocols-AXI4--Lite_%7C_APB3_%7C_Skid_Buffer-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Serial_IPs-UART_%7C_SPI_%7C_I2C-2EA44F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verification-Self--Checking_TB_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-QuestaSim_%7C_GTKWave_%7C_Linux-24292F?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+
 ### RTL Design • Digital Logic Design • Computer Architecture • Front-End VLSI
 
 <p align="left">
