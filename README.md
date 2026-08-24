@@ -1,3 +1,20 @@
+### RTL Design • Digital Logic Design • Computer Architecture • Front-End VLSI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_Design-SystemVerilog_%7C_Verilog-00C8FF?style=for-the-badge&logo=cpu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Design-Combinational_%7C_Sequential_%7C_FSM-00599C?style=for-the-badge&logo=microchip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Architecture-RISC--V_%7C_5--Stage_Pipeline-E3B341?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verification-Testbenches_%7C_Simulation_%7C_Waveforms-D9644A?style=for-the-badge&logo=semiconductor&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RTL_IPs-CDC_Async_FIFO_%7C_UART_%7C_Arbiters-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bus_Protocols-AXI4--Lite_%7C_APB-6F42C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Timing_Concepts-Setup_%2F_Hold_Slack_%7C_Metastability-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-QuestaSim_%7C_GTKWave_%7C_Linux-24292F?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+
 ### RTL Design • Digital Hardware Design • Computer Architecture • RTL Engineering
 
 <p align="left">
