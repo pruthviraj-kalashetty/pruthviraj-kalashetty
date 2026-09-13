@@ -68,7 +68,7 @@ My engineering work is organized into eight structured repositories tracking my 
 1. **[Digital-Systems-and-VLSI](https://github.com/pruthviraj-kalashetty/Digital-Systems-and-VLSI)**  
    `Digital Logic` · `CMOS Electronics` · `Setup/Hold Slack Math` · `Clock Skew`
 2. **[Verilog-Practice](https://github.com/pruthviraj-kalashetty/Verilog-Practice)**  
-   `Synthesizable RTL` · `Mealy/Moore FSMs` · `Clock Dividers` · `Self-Checking Testbenches`
+   `Synthesizable RTL` · `Mealy/Moore FSMs` · `Shift Registers` · `Self-Checking Testbenches`
 3. **[Computer-Architecture](https://github.com/pruthviraj-kalashetty/Computer-Architecture)**  
    `Pipeline Stages` · `Hazard Forwarding` · `Branch Prediction` · `Memory Hierarchy`
 
