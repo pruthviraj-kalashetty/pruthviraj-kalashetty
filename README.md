@@ -136,7 +136,7 @@ must to do this
 ---
 
 ## 📫 Connect with me
-- 💼 LinkedIn: Your LinkedIn link
+- 💼 LinkedIn: www.linkedin.com/in/pruthviraj-kalashetty-2832b9325
 - 📧 Email: pruthvirajak7171@gmail.com
 
 ## Career Objective
