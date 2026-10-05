@@ -124,8 +124,9 @@ must to do this
 
 ```text
 [01] Digital Systems & VLSI     [████████████████████]  100% Completed
-[02] Verilog Design Practice    [█████████████████░░░]  90% In Progress
-[03] Computer Architecture      [█░░░░░░░░░░░░░░░░░░░]   5% Scheduled
+[02] Verilog Design Practice    [████████████████████]  100% Completed
+      └── RTL Mini Projects     [███████░░░░░░░░░░░░░]  30% In Progress
+[03] Computer Architecture      [█░░░░░░░░░░░░░░░░░░░]   5% In Progress
 [04] RTL Design IPs             [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
 [05] System-Level Projects      [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
 [06] FPGA Prototyping           [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
