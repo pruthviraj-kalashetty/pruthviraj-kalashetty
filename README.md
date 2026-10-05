@@ -123,7 +123,7 @@ must to do this
 ## 📊 Learning & Repository Progress
 
 ```text
-[01] Digital Systems & VLSI     [██████████████████░░]  95% Completed
+[01] Digital Systems & VLSI     [████████████████████]  100% Completed
 [02] Verilog Design Practice    [█████████████████░░░]  90% In Progress
 [03] Computer Architecture      [█░░░░░░░░░░░░░░░░░░░]   5% Scheduled
 [04] RTL Design IPs             [░░░░░░░░░░░░░░░░░░░░]   0% Scheduled
